@@ -1,0 +1,13 @@
+<main>
+	<div class="indexContent" style="margin:15px;">
+		<h1>JQURY API Documents</h1>
+		<h2><span>Welcome</span></h2>
+		<div id="contenttext">Please click on the left side navigation bar's links to view documents of jQuery API.</div>
+	</div>
+	<!-- <div class="indexContent1">
+		<h1>JQURY API Documents</h1>
+		<h2><span>Welcome</span></h2>
+		<div id="content">Please click on the left side navigation bar's links to view documents of jQuery API.</div>
+		
+	</div> -->
+</main>

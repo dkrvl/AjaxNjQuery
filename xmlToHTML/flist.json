@@ -1,0 +1,1264 @@
+{
+	"XMLFileList": {
+		"add": {
+			"ftitle": "add",
+			"files": "add.xml"
+		},
+		"addBack": {
+			"ftitle": "addBack",
+			"files": "addBack.xml"
+		},
+		"addClass": {
+			"ftitle": "addClass",
+			"files": "addClass.xml"
+		},
+		"after": {
+			"ftitle": "after",
+			"files": "after.xml"
+		},
+		"ajaxComplete": {
+			"ftitle": "ajaxComplete",
+			"files": "ajaxComplete.xml"
+		},
+		"ajaxError": {
+			"ftitle": "ajaxError",
+			"files": "ajaxError.xml"
+		},
+		"ajaxSend": {
+			"ftitle": "ajaxSend",
+			"files": "ajaxSend.xml"
+		},
+		"ajaxStart": {
+			"ftitle": "ajaxStart",
+			"files": "ajaxStart.xml"
+		},
+		"ajaxStop": {
+			"ftitle": "ajaxStop",
+			"files": "ajaxStop.xml"
+		},
+		"ajaxSuccess": {
+			"ftitle": "ajaxSuccess",
+			"files": "ajaxSuccess.xml"
+		},
+		"all-selector": {
+			"ftitle": "all-selector",
+			"files": "all-selector.xml"
+		},
+		"andSelf": {
+			"ftitle": "andSelf",
+			"files": "andSelf.xml"
+		},
+		"animate": {
+			"ftitle": "animate",
+			"files": "animate.xml"
+		},
+		"animated-selector": {
+			"ftitle": "animated-selector",
+			"files": "animated-selector.xml"
+		},
+		"append": {
+			"ftitle": "append",
+			"files": "append.xml"
+		},
+		"appendTo": {
+			"ftitle": "appendTo",
+			"files": "appendTo.xml"
+		},
+		"attr": {
+			"ftitle": "attr",
+			"files": "attr.xml"
+		},
+		"attribute-contains-prefix-selector": {
+			"ftitle": "attribute-contains-prefix-selector",
+			"files": "attribute-contains-prefix-selector.xml"
+		},
+		"attribute-contains-selector": {
+			"ftitle": "attribute-contains-selector",
+			"files": "attribute-contains-selector.xml"
+		},
+		"attribute-contains-word-selector": {
+			"ftitle": "attribute-contains-word-selector",
+			"files": "attribute-contains-word-selector.xml"
+		},
+		"attribute-ends-with-selector": {
+			"ftitle": "attribute-ends-with-selector",
+			"files": "attribute-ends-with-selector.xml"
+		},
+		"attribute-equals-selector": {
+			"ftitle": "attribute-equals-selector",
+			"files": "attribute-equals-selector.xml"
+		},
+		"attribute-not-equal-selector": {
+			"ftitle": "attribute-not-equal-selector",
+			"files": "attribute-not-equal-selector.xml"
+		},
+		"attribute-starts-with-selector": {
+			"ftitle": "attribute-starts-with-selector",
+			"files": "attribute-starts-with-selector.xml"
+		},
+		"before": {
+			"ftitle": "before",
+			"files": "before.xml"
+		},
+		"bind": {
+			"ftitle": "bind",
+			"files": "bind.xml"
+		},
+		"blur": {
+			"ftitle": "blur",
+			"files": "blur.xml"
+		},
+		"button-selector": {
+			"ftitle": "button-selector",
+			"files": "button-selector.xml"
+		},
+		"callbacks.add": {
+			"ftitle": "callbacks.add",
+			"files": "callbacks.add.xml"
+		},
+		"callbacks.disable": {
+			"ftitle": "callbacks.disable",
+			"files": "callbacks.disable.xml"
+		},
+		"callbacks.disabled": {
+			"ftitle": "callbacks.disabled",
+			"files": "callbacks.disabled.xml"
+		},
+		"callbacks.empty": {
+			"ftitle": "callbacks.empty",
+			"files": "callbacks.empty.xml"
+		},
+		"callbacks.fire": {
+			"ftitle": "callbacks.fire",
+			"files": "callbacks.fire.xml"
+		},
+		"callbacks.fired": {
+			"ftitle": "callbacks.fired",
+			"files": "callbacks.fired.xml"
+		},
+		"callbacks.fireWith": {
+			"ftitle": "callbacks.fireWith",
+			"files": "callbacks.fireWith.xml"
+		},
+		"callbacks.has": {
+			"ftitle": "callbacks.has",
+			"files": "callbacks.has.xml"
+		},
+		"callbacks.lock": {
+			"ftitle": "callbacks.lock",
+			"files": "callbacks.lock.xml"
+		},
+		"callbacks.locked": {
+			"ftitle": "callbacks.locked",
+			"files": "callbacks.locked.xml"
+		},
+		"callbacks.remove": {
+			"ftitle": "callbacks.remove",
+			"files": "callbacks.remove.xml"
+		},
+		"change": {
+			"ftitle": "change",
+			"files": "change.xml"
+		},
+		"checkbox-selector": {
+			"ftitle": "checkbox-selector",
+			"files": "checkbox-selector.xml"
+		},
+		"checked-selector": {
+			"ftitle": "checked-selector",
+			"files": "checked-selector.xml"
+		},
+		"children": {
+			"ftitle": "children",
+			"files": "children.xml"
+		},
+		"child-selector": {
+			"ftitle": "child-selector",
+			"files": "child-selector.xml"
+		},
+		"class-selector": {
+			"ftitle": "class-selector",
+			"files": "class-selector.xml"
+		},
+		"clearQueue": {
+			"ftitle": "clearQueue",
+			"files": "clearQueue.xml"
+		},
+		"click": {
+			"ftitle": "click",
+			"files": "click.xml"
+		},
+		"clone": {
+			"ftitle": "clone",
+			"files": "clone.xml"
+		},
+		"closest": {
+			"ftitle": "closest",
+			"files": "closest.xml"
+		},
+		"contains-selector": {
+			"ftitle": "contains-selector",
+			"files": "contains-selector.xml"
+		},
+		"contents": {
+			"ftitle": "contents",
+			"files": "contents.xml"
+		},
+		"context": {
+			"ftitle": "context",
+			"files": "context.xml"
+		},
+		"contextmenu": {
+			"ftitle": "contextmenu",
+			"files": "contextmenu.xml"
+		},
+		"css": {
+			"ftitle": "css",
+			"files": "css.xml"
+		},
+		"data": {
+			"ftitle": "data",
+			"files": "data.xml"
+		},
+		"dblclick": {
+			"ftitle": "dblclick",
+			"files": "dblclick.xml"
+		},
+		"deferred.always": {
+			"ftitle": "deferred.always",
+			"files": "deferred.always.xml"
+		},
+		"deferred.done": {
+			"ftitle": "deferred.done",
+			"files": "deferred.done.xml"
+		},
+		"deferred.fail": {
+			"ftitle": "deferred.fail",
+			"files": "deferred.fail.xml"
+		},
+		"deferred.isRejected": {
+			"ftitle": "deferred.isRejected",
+			"files": "deferred.isRejected.xml"
+		},
+		"deferred.isResolved": {
+			"ftitle": "deferred.isResolved",
+			"files": "deferred.isResolved.xml"
+		},
+		"deferred.notify": {
+			"ftitle": "deferred.notify",
+			"files": "deferred.notify.xml"
+		},
+		"deferred.notifyWith": {
+			"ftitle": "deferred.notifyWith",
+			"files": "deferred.notifyWith.xml"
+		},
+		"deferred.pipe": {
+			"ftitle": "deferred.pipe",
+			"files": "deferred.pipe.xml"
+		},
+		"deferred.progress": {
+			"ftitle": "deferred.progress",
+			"files": "deferred.progress.xml"
+		},
+		"deferred.promise": {
+			"ftitle": "deferred.promise",
+			"files": "deferred.promise.xml"
+		},
+		"deferred.reject": {
+			"ftitle": "deferred.reject",
+			"files": "deferred.reject.xml"
+		},
+		"deferred.rejectWith": {
+			"ftitle": "deferred.rejectWith",
+			"files": "deferred.rejectWith.xml"
+		},
+		"deferred.resolve": {
+			"ftitle": "deferred.resolve",
+			"files": "deferred.resolve.xml"
+		},
+		"deferred.resolveWith": {
+			"ftitle": "deferred.resolveWith",
+			"files": "deferred.resolveWith.xml"
+		},
+		"deferred.state": {
+			"ftitle": "deferred.state",
+			"files": "deferred.state.xml"
+		},
+		"deferred.then": {
+			"ftitle": "deferred.then",
+			"files": "deferred.then.xml"
+		},
+		"delay": {
+			"ftitle": "delay",
+			"files": "delay.xml"
+		},
+		"delegate": {
+			"ftitle": "delegate",
+			"files": "delegate.xml"
+		},
+		"dequeue": {
+			"ftitle": "dequeue",
+			"files": "dequeue.xml"
+		},
+		"descendant-selector": {
+			"ftitle": "descendant-selector",
+			"files": "descendant-selector.xml"
+		},
+		"detach": {
+			"ftitle": "detach",
+			"files": "detach.xml"
+		},
+		"die": {
+			"ftitle": "die",
+			"files": "die.xml"
+		},
+		"disabled-selector": {
+			"ftitle": "disabled-selector",
+			"files": "disabled-selector.xml"
+		},
+		"each": {
+			"ftitle": "each",
+			"files": "each.xml"
+		},
+		"element-selector": {
+			"ftitle": "element-selector",
+			"files": "element-selector.xml"
+		},
+		"empty": {
+			"ftitle": "empty",
+			"files": "empty.xml"
+		},
+		"empty-selector": {
+			"ftitle": "empty-selector",
+			"files": "empty-selector.xml"
+		},
+		"enabled-selector": {
+			"ftitle": "enabled-selector",
+			"files": "enabled-selector.xml"
+		},
+		"end": {
+			"ftitle": "end",
+			"files": "end.xml"
+		},
+		"eq": {
+			"ftitle": "eq",
+			"files": "eq.xml"
+		},
+		"eq-selector": {
+			"ftitle": "eq-selector",
+			"files": "eq-selector.xml"
+		},
+		"error": {
+			"ftitle": "error",
+			"files": "error.xml"
+		},
+		"even-selector": {
+			"ftitle": "even-selector",
+			"files": "even-selector.xml"
+		},
+		"event.currentTarget": {
+			"ftitle": "event.currentTarget",
+			"files": "event.currentTarget.xml"
+		},
+		"event.data": {
+			"ftitle": "event.data",
+			"files": "event.data.xml"
+		},
+		"event.delegateTarget": {
+			"ftitle": "event.delegateTarget",
+			"files": "event.delegateTarget.xml"
+		},
+		"event.isDefaultPrevented": {
+			"ftitle": "event.isDefaultPrevented",
+			"files": "event.isDefaultPrevented.xml"
+		},
+		"event.isImmediatePropagationStopped": {
+			"ftitle": "event.isImmediatePropagationStopped",
+			"files": "event.isImmediatePropagationStopped.xml"
+		},
+		"event.isPropagationStopped": {
+			"ftitle": "event.isPropagationStopped",
+			"files": "event.isPropagationStopped.xml"
+		},
+		"event.metaKey": {
+			"ftitle": "event.metaKey",
+			"files": "event.metaKey.xml"
+		},
+		"event.namespace": {
+			"ftitle": "event.namespace",
+			"files": "event.namespace.xml"
+		},
+		"event.pageX": {
+			"ftitle": "event.pageX",
+			"files": "event.pageX.xml"
+		},
+		"event.pageY": {
+			"ftitle": "event.pageY",
+			"files": "event.pageY.xml"
+		},
+		"event.preventDefault": {
+			"ftitle": "event.preventDefault",
+			"files": "event.preventDefault.xml"
+		},
+		"event.relatedTarget": {
+			"ftitle": "event.relatedTarget",
+			"files": "event.relatedTarget.xml"
+		},
+		"event.result": {
+			"ftitle": "event.result",
+			"files": "event.result.xml"
+		},
+		"event.stopImmediatePropagation": {
+			"ftitle": "event.stopImmediatePropagation",
+			"files": "event.stopImmediatePropagation.xml"
+		},
+		"event.stopPropagation": {
+			"ftitle": "event.stopPropagation",
+			"files": "event.stopPropagation.xml"
+		},
+		"event.target": {
+			"ftitle": "event.target",
+			"files": "event.target.xml"
+		},
+		"event.timeStamp": {
+			"ftitle": "event.timeStamp",
+			"files": "event.timeStamp.xml"
+		},
+		"event.type": {
+			"ftitle": "event.type",
+			"files": "event.type.xml"
+		},
+		"event.which": {
+			"ftitle": "event.which",
+			"files": "event.which.xml"
+		},
+		"fadeIn": {
+			"ftitle": "fadeIn",
+			"files": "fadeIn.xml"
+		},
+		"fadeOut": {
+			"ftitle": "fadeOut",
+			"files": "fadeOut.xml"
+		},
+		"fadeTo": {
+			"ftitle": "fadeTo",
+			"files": "fadeTo.xml"
+		},
+		"fadeToggle": {
+			"ftitle": "fadeToggle",
+			"files": "fadeToggle.xml"
+		},
+		"file-selector": {
+			"ftitle": "file-selector",
+			"files": "file-selector.xml"
+		},
+		"filter": {
+			"ftitle": "filter",
+			"files": "filter.xml"
+		},
+		"find": {
+			"ftitle": "find",
+			"files": "find.xml"
+		},
+		"finish": {
+			"ftitle": "finish",
+			"files": "finish.xml"
+		},
+		"first": {
+			"ftitle": "first",
+			"files": "first.xml"
+		},
+		"first-child-selector": {
+			"ftitle": "first-child-selector",
+			"files": "first-child-selector.xml"
+		},
+		"first-of-type-selector": {
+			"ftitle": "first-of-type-selector",
+			"files": "first-of-type-selector.xml"
+		},
+		"first-selector": {
+			"ftitle": "first-selector",
+			"files": "first-selector.xml"
+		},
+		"focus": {
+			"ftitle": "focus",
+			"files": "focus.xml"
+		},
+		"focusin": {
+			"ftitle": "focusin",
+			"files": "focusin.xml"
+		},
+		"focusout": {
+			"ftitle": "focusout",
+			"files": "focusout.xml"
+		},
+		"focus-selector": {
+			"ftitle": "focus-selector",
+			"files": "focus-selector.xml"
+		},
+		"get": {
+			"ftitle": "get",
+			"files": "get.xml"
+		},
+		"gt-selector": {
+			"ftitle": "gt-selector",
+			"files": "gt-selector.xml"
+		},
+		"has": {
+			"ftitle": "has",
+			"files": "has.xml"
+		},
+		"has-attribute-selector": {
+			"ftitle": "has-attribute-selector",
+			"files": "has-attribute-selector.xml"
+		},
+		"hasClass": {
+			"ftitle": "hasClass",
+			"files": "hasClass.xml"
+		},
+		"has-selector": {
+			"ftitle": "has-selector",
+			"files": "has-selector.xml"
+		},
+		"header-selector": {
+			"ftitle": "header-selector",
+			"files": "header-selector.xml"
+		},
+		"height": {
+			"ftitle": "height",
+			"files": "height.xml"
+		},
+		"hidden-selector": {
+			"ftitle": "hidden-selector",
+			"files": "hidden-selector.xml"
+		},
+		"hide": {
+			"ftitle": "hide",
+			"files": "hide.xml"
+		},
+		"hover": {
+			"ftitle": "hover",
+			"files": "hover.xml"
+		},
+		"html": {
+			"ftitle": "html",
+			"files": "html.xml"
+		},
+		"id-selector": {
+			"ftitle": "id-selector",
+			"files": "id-selector.xml"
+		},
+		"image-selector": {
+			"ftitle": "image-selector",
+			"files": "image-selector.xml"
+		},
+		"index": {
+			"ftitle": "index",
+			"files": "index.xml"
+		},
+		"innerHeight": {
+			"ftitle": "innerHeight",
+			"files": "innerHeight.xml"
+		},
+		"innerWidth": {
+			"ftitle": "innerWidth",
+			"files": "innerWidth.xml"
+		},
+		"input-selector": {
+			"ftitle": "input-selector",
+			"files": "input-selector.xml"
+		},
+		"insertAfter": {
+			"ftitle": "insertAfter",
+			"files": "insertAfter.xml"
+		},
+		"insertBefore": {
+			"ftitle": "insertBefore",
+			"files": "insertBefore.xml"
+		},
+		"is": {
+			"ftitle": "is",
+			"files": "is.xml"
+		},
+		"jQuery.ajax": {
+			"ftitle": "jQuery.ajax",
+			"files": "jQuery.ajax.xml"
+		},
+		"jQuery.ajaxPrefilter": {
+			"ftitle": "jQuery.ajaxPrefilter",
+			"files": "jQuery.ajaxPrefilter.xml"
+		},
+		"jQuery.ajaxSetup": {
+			"ftitle": "jQuery.ajaxSetup",
+			"files": "jQuery.ajaxSetup.xml"
+		},
+		"jQuery.ajaxTransport": {
+			"ftitle": "jQuery.ajaxTransport",
+			"files": "jQuery.ajaxTransport.xml"
+		},
+		"jQuery.boxModel": {
+			"ftitle": "jQuery.boxModel",
+			"files": "jQuery.boxModel.xml"
+		},
+		"jQuery.browser": {
+			"ftitle": "jQuery.browser",
+			"files": "jQuery.browser.xml"
+		},
+		"jQuery.Callbacks": {
+			"ftitle": "jQuery.Callbacks",
+			"files": "jQuery.Callbacks.xml"
+		},
+		"jQuery.contains": {
+			"ftitle": "jQuery.contains",
+			"files": "jQuery.contains.xml"
+		},
+		"jQuery.cssHooks": {
+			"ftitle": "jQuery.cssHooks",
+			"files": "jQuery.cssHooks.xml"
+		},
+		"jQuery.cssNumber": {
+			"ftitle": "jQuery.cssNumber",
+			"files": "jQuery.cssNumber.xml"
+		},
+		"jQuery.data": {
+			"ftitle": "jQuery.data",
+			"files": "jQuery.data.xml"
+		},
+		"jQuery.Deferred": {
+			"ftitle": "jQuery.Deferred",
+			"files": "jQuery.Deferred.xml"
+		},
+		"jQuery.dequeue": {
+			"ftitle": "jQuery.dequeue",
+			"files": "jQuery.dequeue.xml"
+		},
+		"jQuery.each": {
+			"ftitle": "jQuery.each",
+			"files": "jQuery.each.xml"
+		},
+		"jQuery.error": {
+			"ftitle": "jQuery.error",
+			"files": "jQuery.error.xml"
+		},
+		"jQuery.escapeSelector": {
+			"ftitle": "jQuery.escapeSelector",
+			"files": "jQuery.escapeSelector.xml"
+		},
+		"jQuery.extend": {
+			"ftitle": "jQuery.extend",
+			"files": "jQuery.extend.xml"
+		},
+		"jQuery.fn.extend": {
+			"ftitle": "jQuery.fn.extend",
+			"files": "jQuery.fn.extend.xml"
+		},
+		"jQuery.fx.interval": {
+			"ftitle": "jQuery.fx.interval",
+			"files": "jQuery.fx.interval.xml"
+		},
+		"jQuery.fx.off": {
+			"ftitle": "jQuery.fx.off",
+			"files": "jQuery.fx.off.xml"
+		},
+		"jQuery.get": {
+			"ftitle": "jQuery.get",
+			"files": "jQuery.get.xml"
+		},
+		"jQuery.getJSON": {
+			"ftitle": "jQuery.getJSON",
+			"files": "jQuery.getJSON.xml"
+		},
+		"jQuery.getScript": {
+			"ftitle": "jQuery.getScript",
+			"files": "jQuery.getScript.xml"
+		},
+		"jQuery.globalEval": {
+			"ftitle": "jQuery.globalEval",
+			"files": "jQuery.globalEval.xml"
+		},
+		"jQuery.grep": {
+			"ftitle": "jQuery.grep",
+			"files": "jQuery.grep.xml"
+		},
+		"jQuery.hasData": {
+			"ftitle": "jQuery.hasData",
+			"files": "jQuery.hasData.xml"
+		},
+		"jQuery.holdReady": {
+			"ftitle": "jQuery.holdReady",
+			"files": "jQuery.holdReady.xml"
+		},
+		"jQuery.htmlPrefilter": {
+			"ftitle": "jQuery.htmlPrefilter",
+			"files": "jQuery.htmlPrefilter.xml"
+		},
+		"jQuery.inArray": {
+			"ftitle": "jQuery.inArray",
+			"files": "jQuery.inArray.xml"
+		},
+		"jQuery.isArray": {
+			"ftitle": "jQuery.isArray",
+			"files": "jQuery.isArray.xml"
+		},
+		"jQuery.isEmptyObject": {
+			"ftitle": "jQuery.isEmptyObject",
+			"files": "jQuery.isEmptyObject.xml"
+		},
+		"jQuery.isFunction": {
+			"ftitle": "jQuery.isFunction",
+			"files": "jQuery.isFunction.xml"
+		},
+		"jQuery.isNumeric": {
+			"ftitle": "jQuery.isNumeric",
+			"files": "jQuery.isNumeric.xml"
+		},
+		"jQuery.isPlainObject": {
+			"ftitle": "jQuery.isPlainObject",
+			"files": "jQuery.isPlainObject.xml"
+		},
+		"jQuery.isWindow": {
+			"ftitle": "jQuery.isWindow",
+			"files": "jQuery.isWindow.xml"
+		},
+		"jQuery.isXMLDoc": {
+			"ftitle": "jQuery.isXMLDoc",
+			"files": "jQuery.isXMLDoc.xml"
+		},
+		"jQuery.makeArray": {
+			"ftitle": "jQuery.makeArray",
+			"files": "jQuery.makeArray.xml"
+		},
+		"jQuery.map": {
+			"ftitle": "jQuery.map",
+			"files": "jQuery.map.xml"
+		},
+		"jQuery.merge": {
+			"ftitle": "jQuery.merge",
+			"files": "jQuery.merge.xml"
+		},
+		"jQuery.noConflict": {
+			"ftitle": "jQuery.noConflict",
+			"files": "jQuery.noConflict.xml"
+		},
+		"jQuery.noop": {
+			"ftitle": "jQuery.noop",
+			"files": "jQuery.noop.xml"
+		},
+		"jQuery.now": {
+			"ftitle": "jQuery.now",
+			"files": "jQuery.now.xml"
+		},
+		"jQuery.param": {
+			"ftitle": "jQuery.param",
+			"files": "jQuery.param.xml"
+		},
+		"jQuery.parseHTML": {
+			"ftitle": "jQuery.parseHTML",
+			"files": "jQuery.parseHTML.xml"
+		},
+		"jQuery.parseJSON": {
+			"ftitle": "jQuery.parseJSON",
+			"files": "jQuery.parseJSON.xml"
+		},
+		"jQuery.parseXML": {
+			"ftitle": "jQuery.parseXML",
+			"files": "jQuery.parseXML.xml"
+		},
+		"jQuery.post": {
+			"ftitle": "jQuery.post",
+			"files": "jQuery.post.xml"
+		},
+		"jQuery.proxy": {
+			"ftitle": "jQuery.proxy",
+			"files": "jQuery.proxy.xml"
+		},
+		"jQuery.queue": {
+			"ftitle": "jQuery.queue",
+			"files": "jQuery.queue.xml"
+		},
+		"jQuery.readyException": {
+			"ftitle": "jQuery.readyException",
+			"files": "jQuery.readyException.xml"
+		},
+		"jQuery.removeData": {
+			"ftitle": "jQuery.removeData",
+			"files": "jQuery.removeData.xml"
+		},
+		"jQuery.speed": {
+			"ftitle": "jQuery.speed",
+			"files": "jQuery.speed.xml"
+		},
+		"jQuery.sub": {
+			"ftitle": "jQuery.sub",
+			"files": "jQuery.sub.xml"
+		},
+		"jQuery.support": {
+			"ftitle": "jQuery.support",
+			"files": "jQuery.support.xml"
+		},
+		"jQuery.trim": {
+			"ftitle": "jQuery.trim",
+			"files": "jQuery.trim.xml"
+		},
+		"jQuery.type": {
+			"ftitle": "jQuery.type",
+			"files": "jQuery.type.xml"
+		},
+		"jQuery.unique": {
+			"ftitle": "jQuery.unique",
+			"files": "jQuery.unique.xml"
+		},
+		"jQuery.uniqueSort": {
+			"ftitle": "jQuery.uniqueSort",
+			"files": "jQuery.uniqueSort.xml"
+		},
+		"jQuery.when": {
+			"ftitle": "jQuery.when",
+			"files": "jQuery.when.xml"
+		},
+		"jQuery": {
+			"ftitle": "jQuery",
+			"files": "jQuery.xml"
+		},
+		"jquery-2": {
+			"ftitle": "jquery-2",
+			"files": "jquery-2.xml"
+		},
+		"keydown": {
+			"ftitle": "keydown",
+			"files": "keydown.xml"
+		},
+		"keypress": {
+			"ftitle": "keypress",
+			"files": "keypress.xml"
+		},
+		"keyup": {
+			"ftitle": "keyup",
+			"files": "keyup.xml"
+		},
+		"lang-selector": {
+			"ftitle": "lang-selector",
+			"files": "lang-selector.xml"
+		},
+		"last": {
+			"ftitle": "last",
+			"files": "last.xml"
+		},
+		"last-child-selector": {
+			"ftitle": "last-child-selector",
+			"files": "last-child-selector.xml"
+		},
+		"last-of-type-selector": {
+			"ftitle": "last-of-type-selector",
+			"files": "last-of-type-selector.xml"
+		},
+		"last-selector": {
+			"ftitle": "last-selector",
+			"files": "last-selector.xml"
+		},
+		"length": {
+			"ftitle": "length",
+			"files": "length.xml"
+		},
+		"listoffiles": {
+			"ftitle": "listoffiles",
+			"files": "listoffiles.txt"
+		},
+		"live": {
+			"ftitle": "live",
+			"files": "live.xml"
+		},
+		"load": {
+			"ftitle": "load",
+			"files": "load.xml"
+		},
+		"load-event": {
+			"ftitle": "load-event",
+			"files": "load-event.xml"
+		},
+		"lt-selector": {
+			"ftitle": "lt-selector",
+			"files": "lt-selector.xml"
+		},
+		"map": {
+			"ftitle": "map",
+			"files": "map.xml"
+		},
+		"mousedown": {
+			"ftitle": "mousedown",
+			"files": "mousedown.xml"
+		},
+		"mouseenter": {
+			"ftitle": "mouseenter",
+			"files": "mouseenter.xml"
+		},
+		"mouseleave": {
+			"ftitle": "mouseleave",
+			"files": "mouseleave.xml"
+		},
+		"mousemove": {
+			"ftitle": "mousemove",
+			"files": "mousemove.xml"
+		},
+		"mouseout": {
+			"ftitle": "mouseout",
+			"files": "mouseout.xml"
+		},
+		"mouseover": {
+			"ftitle": "mouseover",
+			"files": "mouseover.xml"
+		},
+		"mouseup": {
+			"ftitle": "mouseup",
+			"files": "mouseup.xml"
+		},
+		"multiple-attribute-selector": {
+			"ftitle": "multiple-attribute-selector",
+			"files": "multiple-attribute-selector.xml"
+		},
+		"multiple-selector": {
+			"ftitle": "multiple-selector",
+			"files": "multiple-selector.xml"
+		},
+		"next": {
+			"ftitle": "next",
+			"files": "next.xml"
+		},
+		"next-adjacent-selector": {
+			"ftitle": "next-adjacent-selector",
+			"files": "next-adjacent-selector.xml"
+		},
+		"nextAll": {
+			"ftitle": "nextAll",
+			"files": "nextAll.xml"
+		},
+		"next-siblings-selector": {
+			"ftitle": "next-siblings-selector",
+			"files": "next-siblings-selector.xml"
+		},
+		"nextUntil": {
+			"ftitle": "nextUntil",
+			"files": "nextUntil.xml"
+		},
+		"not": {
+			"ftitle": "not",
+			"files": "not.xml"
+		},
+		"not-selector": {
+			"ftitle": "not-selector",
+			"files": "not-selector.xml"
+		},
+		"nth-child-selector": {
+			"ftitle": "nth-child-selector",
+			"files": "nth-child-selector.xml"
+		},
+		"nth-last-child-selector": {
+			"ftitle": "nth-last-child-selector",
+			"files": "nth-last-child-selector.xml"
+		},
+		"nth-last-of-type-selector": {
+			"ftitle": "nth-last-of-type-selector",
+			"files": "nth-last-of-type-selector.xml"
+		},
+		"nth-of-type-selector": {
+			"ftitle": "nth-of-type-selector",
+			"files": "nth-of-type-selector.xml"
+		},
+		"odd-selector": {
+			"ftitle": "odd-selector",
+			"files": "odd-selector.xml"
+		},
+		"off": {
+			"ftitle": "off",
+			"files": "off.xml"
+		},
+		"offset": {
+			"ftitle": "offset",
+			"files": "offset.xml"
+		},
+		"offsetParent": {
+			"ftitle": "offsetParent",
+			"files": "offsetParent.xml"
+		},
+		"on": {
+			"ftitle": "on",
+			"files": "on.xml"
+		},
+		"one": {
+			"ftitle": "one",
+			"files": "one.xml"
+		},
+		"only-child-selector": {
+			"ftitle": "only-child-selector",
+			"files": "only-child-selector.xml"
+		},
+		"only-of-type-selector": {
+			"ftitle": "only-of-type-selector",
+			"files": "only-of-type-selector.xml"
+		},
+		"outerHeight": {
+			"ftitle": "outerHeight",
+			"files": "outerHeight.xml"
+		},
+		"outerWidth": {
+			"ftitle": "outerWidth",
+			"files": "outerWidth.xml"
+		},
+		"parent": {
+			"ftitle": "parent",
+			"files": "parent.xml"
+		},
+		"parents": {
+			"ftitle": "parents",
+			"files": "parents.xml"
+		},
+		"parent-selector": {
+			"ftitle": "parent-selector",
+			"files": "parent-selector.xml"
+		},
+		"parentsUntil": {
+			"ftitle": "parentsUntil",
+			"files": "parentsUntil.xml"
+		},
+		"password-selector": {
+			"ftitle": "password-selector",
+			"files": "password-selector.xml"
+		},
+		"position": {
+			"ftitle": "position",
+			"files": "position.xml"
+		},
+		"prepend": {
+			"ftitle": "prepend",
+			"files": "prepend.xml"
+		},
+		"prependTo": {
+			"ftitle": "prependTo",
+			"files": "prependTo.xml"
+		},
+		"prev": {
+			"ftitle": "prev",
+			"files": "prev.xml"
+		},
+		"prevAll": {
+			"ftitle": "prevAll",
+			"files": "prevAll.xml"
+		},
+		"prevUntil": {
+			"ftitle": "prevUntil",
+			"files": "prevUntil.xml"
+		},
+		"promise": {
+			"ftitle": "promise",
+			"files": "promise.xml"
+		},
+		"prop": {
+			"ftitle": "prop",
+			"files": "prop.xml"
+		},
+		"pushStack": {
+			"ftitle": "pushStack",
+			"files": "pushStack.xml"
+		},
+		"queue": {
+			"ftitle": "queue",
+			"files": "queue.xml"
+		},
+		"radio-selector": {
+			"ftitle": "radio-selector",
+			"files": "radio-selector.xml"
+		},
+		"ready": {
+			"ftitle": "ready",
+			"files": "ready.xml"
+		},
+		"remove": {
+			"ftitle": "remove",
+			"files": "remove.xml"
+		},
+		"removeAttr": {
+			"ftitle": "removeAttr",
+			"files": "removeAttr.xml"
+		},
+		"removeClass": {
+			"ftitle": "removeClass",
+			"files": "removeClass.xml"
+		},
+		"removeData": {
+			"ftitle": "removeData",
+			"files": "removeData.xml"
+		},
+		"removeProp": {
+			"ftitle": "removeProp",
+			"files": "removeProp.xml"
+		},
+		"replaceAll": {
+			"ftitle": "replaceAll",
+			"files": "replaceAll.xml"
+		},
+		"replaceWith": {
+			"ftitle": "replaceWith",
+			"files": "replaceWith.xml"
+		},
+		"reset-selector": {
+			"ftitle": "reset-selector",
+			"files": "reset-selector.xml"
+		},
+		"resize": {
+			"ftitle": "resize",
+			"files": "resize.xml"
+		},
+		"root-selector": {
+			"ftitle": "root-selector",
+			"files": "root-selector.xml"
+		},
+		"scroll": {
+			"ftitle": "scroll",
+			"files": "scroll.xml"
+		},
+		"scrollLeft": {
+			"ftitle": "scrollLeft",
+			"files": "scrollLeft.xml"
+		},
+		"scrollTop": {
+			"ftitle": "scrollTop",
+			"files": "scrollTop.xml"
+		},
+		"select": {
+			"ftitle": "select",
+			"files": "select.xml"
+		},
+		"selected-selector": {
+			"ftitle": "selected-selector",
+			"files": "selected-selector.xml"
+		},
+		"selector": {
+			"ftitle": "selector",
+			"files": "selector.xml"
+		},
+		"serialize": {
+			"ftitle": "serialize",
+			"files": "serialize.xml"
+		},
+		"serializeArray": {
+			"ftitle": "serializeArray",
+			"files": "serializeArray.xml"
+		},
+		"show": {
+			"ftitle": "show",
+			"files": "show.xml"
+		},
+		"siblings": {
+			"ftitle": "siblings",
+			"files": "siblings.xml"
+		},
+		"size": {
+			"ftitle": "size",
+			"files": "size.xml"
+		},
+		"slice": {
+			"ftitle": "slice",
+			"files": "slice.xml"
+		},
+		"slideDown": {
+			"ftitle": "slideDown",
+			"files": "slideDown.xml"
+		},
+		"slideToggle": {
+			"ftitle": "slideToggle",
+			"files": "slideToggle.xml"
+		},
+		"slideUp": {
+			"ftitle": "slideUp",
+			"files": "slideUp.xml"
+		},
+		"stop": {
+			"ftitle": "stop",
+			"files": "stop.xml"
+		},
+		"submit": {
+			"ftitle": "submit",
+			"files": "submit.xml"
+		},
+		"submit-selector": {
+			"ftitle": "submit-selector",
+			"files": "submit-selector.xml"
+		},
+		"target-selector": {
+			"ftitle": "target-selector",
+			"files": "target-selector.xml"
+		},
+		"text": {
+			"ftitle": "text",
+			"files": "text.xml"
+		},
+		"text-selector": {
+			"ftitle": "text-selector",
+			"files": "text-selector.xml"
+		},
+		"toArray": {
+			"ftitle": "toArray",
+			"files": "toArray.xml"
+		},
+		"toggle": {
+			"ftitle": "toggle",
+			"files": "toggle.xml"
+		},
+		"toggleClass": {
+			"ftitle": "toggleClass",
+			"files": "toggleClass.xml"
+		},
+		"toggle-event": {
+			"ftitle": "toggle-event",
+			"files": "toggle-event.xml"
+		},
+		"trigger": {
+			"ftitle": "trigger",
+			"files": "trigger.xml"
+		},
+		"triggerHandler": {
+			"ftitle": "triggerHandler",
+			"files": "triggerHandler.xml"
+		},
+		"unbind": {
+			"ftitle": "unbind",
+			"files": "unbind.xml"
+		},
+		"undelegate": {
+			"ftitle": "undelegate",
+			"files": "undelegate.xml"
+		},
+		"unload": {
+			"ftitle": "unload",
+			"files": "unload.xml"
+		},
+		"unwrap": {
+			"ftitle": "unwrap",
+			"files": "unwrap.xml"
+		},
+		"val": {
+			"ftitle": "val",
+			"files": "val.xml"
+		},
+		"visible-selector": {
+			"ftitle": "visible-selector",
+			"files": "visible-selector.xml"
+		},
+		"width": {
+			"ftitle": "width",
+			"files": "width.xml"
+		},
+		"wrap": {
+			"ftitle": "wrap",
+			"files": "wrap.xml"
+		},
+		"wrapAll": {
+			"ftitle": "wrapAll",
+			"files": "wrapAll.xml"
+		},
+		"wrapInner": {
+			"ftitle": "wrapInner",
+			"files": "wrapInner.xml"
+		},
+	}
+}
